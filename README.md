@@ -10,7 +10,6 @@ A minimal decentralized application (dApp) for login/logout using **Puzzle Walle
    ```bash
    git clone https://github.com/yourusername/aleo-simple-login.git
    cd aleo-simple-login
-`
 
 2. **Install dependencies**
 
@@ -100,7 +99,7 @@ MIT License — feel free to use, modify, and share.
 
 ## 🙌 **Credits**
 
-Built with 💙 by [Your Name](https://github.com/yourusername)
+Built by (https://github.com/barnazaka)
 Powered by **Aleo**, **Puzzle Wallet**, and **Zero-Knowledge Proof technology**.
 
 ---
@@ -111,7 +110,7 @@ Powered by **Aleo**, **Puzzle Wallet**, and **Zero-Knowledge Proof technology**.
 * [Puzzle Wallet SDK](https://github.com/puzzlehq/sdk)
 * [React Query](https://tanstack.com/query/v4)
 
-```
+``
 
 ---
 
@@ -123,5 +122,5 @@ Powered by **Aleo**, **Puzzle Wallet**, and **Zero-Knowledge Proof technology**.
 
 ---
 
-If you'd like, drop your **GitHub repo link** and I can give you a live preview of how it’ll render too! Want me to?
+If you'd like, drop your **GitHub repo link** and I can give you a live preview of how it’ll render, too! Want me to?
 ```
