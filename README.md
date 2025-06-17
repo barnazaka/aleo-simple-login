@@ -110,7 +110,6 @@ Powered by **Aleo**, **Puzzle Wallet**, and **Zero-Knowledge Proof technology**.
 * [Puzzle Wallet SDK](https://github.com/puzzlehq/sdk)
 * [React Query](https://tanstack.com/query/v4)
 
-``
 
 ---
 
@@ -119,8 +118,3 @@ Powered by **Aleo**, **Puzzle Wallet**, and **Zero-Knowledge Proof technology**.
 2. In VS Code, **create a new file named `README.md` in your project root**.
 3. Paste it.
 4. Save, commit, and push — it’ll render cleanly on GitHub with headings, code blocks, and formatting.
-
----
-
-If you'd like, drop your **GitHub repo link** and I can give you a live preview of how it’ll render, too! Want me to?
-```
