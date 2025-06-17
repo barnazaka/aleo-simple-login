@@ -10,7 +10,7 @@ A minimal decentralized application (dApp) for login/logout using **Puzzle Walle
    ```bash
    git clone https://github.com/yourusername/aleo-simple-login.git
    cd aleo-simple-login
-````
+`
 
 2. **Install dependencies**
 
