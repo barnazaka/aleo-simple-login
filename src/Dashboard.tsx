@@ -1,4 +1,5 @@
 import { useAccount } from "@puzzlehq/sdk";
+import CVPage from "./components/CVPage";
 
 function Dashboard() {
   const { account } = useAccount();
@@ -9,7 +10,7 @@ function Dashboard() {
 
   return (
     <div className="flex h-full w-full flex-col items-center justify-center gap-4">
-      <p className="text-xl">Connected Wallet: {account.address}</p>
+      <CVPage />
     </div>
   );
 }
