@@ -1,4 +1,4 @@
-# **Simple Login dApp with Puzzle Wallet** ooo
+# **Simple Login dApp with Puzzle Wallet** oo
 
 A minimal decentralised application (dApp) for login/logout using **Puzzle Wallet** on the **Aleo blockchain**, with placeholders for future **Zero-Knowledge Proof (ZKP)** development.
 
